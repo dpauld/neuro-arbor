@@ -3,7 +3,7 @@ Welcome to my neuro-arbor, a repository dedicated to the cultivation of mental "
 
 ## 📂 Project Structure
 
-'''
+```
 📂 neuro-arbor
  ├── 📂 roots/               # Data Structures (The Foundation)
  │    ├── arrays/
@@ -19,7 +19,7 @@ Welcome to my neuro-arbor, a repository dedicated to the cultivation of mental "
       ├── two-pointers/
       ├── dynamic-programming/
       └── graphs/
-'''
+```
 
 ## 🛠 Tech Stack
 
